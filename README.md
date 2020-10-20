@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Preview
+
+![react_todo_app](https://user-images.githubusercontent.com/46255148/96418113-42e40480-122d-11eb-9053-353050df397c.gif)
 
 ## Available Scripts
 
